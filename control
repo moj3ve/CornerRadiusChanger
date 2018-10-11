@@ -1,0 +1,9 @@
+Package: com.bandarhelal.cornerradiuschanger
+Name: CornerRadiusChanger
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: An awesome Tweak to change corner radius!
+Maintainer: @BandarHL
+Author: @BandarHL
+Section: Tweaks
